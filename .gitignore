@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+# JMC: Private NetBeans files
+build/
+dist/
+nbproject/private
+
